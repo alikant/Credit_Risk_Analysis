@@ -20,7 +20,7 @@ The code makes use of a credit risk dataset that contains a wide range of person
 ### Data Preprocessing
 1. **Data Exploration and Visualization**
    - Performing descriptive analysis
-   - Exploring relationships between the response variable (‘loan status’) and features visualizations
+   - Exploring relationships between the response variable (‘loan status’) and features using visualizations
 
 2. **Feature Engineering**
    - Imputing missing values, creating indicators, selecting relevant features, encoding categorical variables, detecting outliers, and standardizing numerical data
